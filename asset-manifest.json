@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SeriesSearch-reactapp/static/css/main.f42733ad.chunk.css",
+    "main.js": "/SeriesSearch-reactapp/static/js/main.6b130200.chunk.js",
+    "main.js.map": "/SeriesSearch-reactapp/static/js/main.6b130200.chunk.js.map",
+    "runtime~main.js": "/SeriesSearch-reactapp/static/js/runtime~main.8242d8ae.js",
+    "runtime~main.js.map": "/SeriesSearch-reactapp/static/js/runtime~main.8242d8ae.js.map",
+    "static/js/2.f7d0a267.chunk.js": "/SeriesSearch-reactapp/static/js/2.f7d0a267.chunk.js",
+    "static/js/2.f7d0a267.chunk.js.map": "/SeriesSearch-reactapp/static/js/2.f7d0a267.chunk.js.map",
+    "index.html": "/SeriesSearch-reactapp/index.html",
+    "precache-manifest.253caf8bf1c959b8ee0df93b6540b314.js": "/SeriesSearch-reactapp/precache-manifest.253caf8bf1c959b8ee0df93b6540b314.js",
+    "service-worker.js": "/SeriesSearch-reactapp/service-worker.js",
+    "static/css/main.f42733ad.chunk.css.map": "/SeriesSearch-reactapp/static/css/main.f42733ad.chunk.css.map",
+    "static/media/loader.gif": "/SeriesSearch-reactapp/static/media/loader.07f010bd.gif"
+  }
+}
